@@ -800,6 +800,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7df344cb0c1d7465b86c05b7cdff0e32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ActiveSlot: 1
+  Slots: {fileID: 1045265384}
+  InventorySlots:
+  - {fileID: 278179030}
+  - {fileID: 1715236585}
+  - {fileID: 417748121}
+  - {fileID: 628418311}
+  - {fileID: 25016187}
+  - {fileID: 1422546021}
+  - {fileID: 789067677}
+  - {fileID: 1882043111}
+  - {fileID: 1757807088}
 --- !u!4 &686458771
 Transform:
   m_ObjectHideFlags: 0
